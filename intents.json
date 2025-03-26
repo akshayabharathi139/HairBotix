@@ -1,0 +1,70 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": ["Hi", "Hello", "Hey", "Good morning", "Good evening"],
+        "responses": [
+          "Hello! I'm your Hair Care expert. How can I help you today? 😊\n\nYou can ask about hair fall, dry hair, oily scalp, dandruff, hair growth, or product suggestions!"
+        ]
+      },
+      {
+        "tag": "hair_fall",
+        "patterns": ["Hair fall", "Hair loss", "Why is my hair falling?", "Prevent hair fall"],
+        "responses": [
+          "Hair fall can be caused by stress, poor diet, hormonal imbalance, or excessive styling. Here’s how to prevent it:\n\n✅ **Tips:**\n- Use a mild, sulfate-free shampoo.\n- Apply coconut or castor oil twice a week.\n- Avoid tight hairstyles and excessive heat.\n- Eat protein-rich foods like eggs, nuts, and green leafy vegetables.\n\n💡 **Natural Remedies:**\n- Massage scalp with warm coconut oil for 10 minutes before washing.\n- Use onion juice as a hair mask twice a week.\n\n🛍 **Recommended Products:**\n- **For Mild Hair Fall:** WOW Skin Science Onion Black Seed Oil Shampoo\n- **For Severe Hair Fall:** Indulekha Bringha Hair Oil\n- **For Men & Women:** Mamaearth Onion Hair Serum"
+        ]
+      },
+      {
+        "tag": "oily_hair",
+        "patterns": ["Oily hair", "Greasy hair", "My scalp is oily", "Shampoo for oily hair"],
+        "responses": [
+          "Oily scalp is caused by excess sebum production. Here’s how to manage it:\n\n✅ **Tips:**\n- Wash your hair every alternate day with a clarifying shampoo.\n- Avoid heavy conditioners on the scalp.\n- Use dry shampoo between washes.\n\n💡 **Natural Remedies:**\n- Rinse your hair with diluted apple cider vinegar (1:3 ratio with water).\n- Apply aloe vera gel on the scalp for 10 minutes before washing.\n\n🛍 **Recommended Products:**\n- **Best Shampoo:** L'Oreal Paris Extraordinary Clay Shampoo\n- **For Deep Cleansing:** Neutrogena Anti-Residue Shampoo\n- **Dry Shampoo:** Batiste Instant Refresh Dry Shampoo"
+        ]
+      },
+      {
+        "tag": "dry_hair",
+        "patterns": ["Dry hair", "Frizzy hair", "My hair is dry", "Best shampoo for dry hair"],
+        "responses": [
+          "Dry hair needs deep conditioning and hydration.\n\n✅ **Tips:**\n- Use a leave-in conditioner after washing.\n- Oil your hair twice a week with argan or olive oil.\n- Avoid excessive heat styling.\n\n💡 **Natural Remedies:**\n- Apply a banana and honey hair mask for 20 minutes.\n- Rinse hair with coconut milk for added moisture.\n\n🛍 **Recommended Products:**\n- **Hydrating Shampoo:** OGX Moroccan Argan Oil Shampoo\n- **Leave-in Conditioner:** L'Oreal 6 Oil Nourish Conditioner\n- **Deep Conditioning Mask:** Mamaearth Argan Hair Mask"
+        ]
+      },
+      {
+        "tag": "dandruff",
+        "patterns": ["Dandruff problem", "Flaky scalp", "How to remove dandruff?", "Shampoo for dandruff"],
+        "responses": [
+          "Dandruff is often caused by fungal infections, dry scalp, or poor hygiene.\n\n✅ **Tips:**\n- Use an anti-dandruff shampoo twice a week.\n- Avoid scratching the scalp, as it can cause irritation.\n- Wash hair regularly and avoid heavy styling products.\n\n💡 **Natural Remedies:**\n- Apply a mixture of yogurt and lemon juice to the scalp for 20 minutes.\n- Rinse with tea tree oil-infused water.\n\n🛍 **Recommended Products:**\n- **Mild Dandruff:** Head & Shoulders Clinical Strength Shampoo\n- **Severe Dandruff:** Nizoral Anti-Dandruff Shampoo\n- **Natural Option:** Himalaya Anti-Dandruff Shampoo"
+        ]
+      },
+      {
+        "tag": "hair_growth",
+        "patterns": ["How to grow hair faster?", "Tips for hair growth", "Hair growth products"],
+        "responses": [
+          "Hair growth requires proper care and nutrition.\n\n✅ **Tips:**\n- Massage scalp regularly to improve blood circulation.\n- Eat protein-rich foods like fish, nuts, and eggs.\n- Reduce stress through yoga or meditation.\n\n💡 **Natural Remedies:**\n- Use rosemary oil mixed with coconut oil for scalp massage.\n- Drink amla (Indian gooseberry) juice daily for better hair health.\n\n🛍 **Recommended Products:**\n- **For Faster Growth:** Mamaearth Onion Hair Oil\n- **Biotin Supplement:** Natrol Biotin 10,000 mcg (consult a doctor before use)\n- **Hair Growth Serum:** WOW Skin Science Hair Growth Serum"
+        ]
+      },
+      {
+        "tag": "styling_tips",
+        "patterns": ["Best way to style hair", "Hair styling tips", "How to protect hair from heat?"],
+        "responses": [
+          "Styling is fun, but heat and chemicals can damage hair. Follow these tips:\n\n✅ **Tips:**\n- Always apply a heat protectant before using straighteners or curling irons.\n- Use low-heat settings while styling.\n- Try protective hairstyles like braids or buns to prevent damage.\n\n🛍 **Recommended Products:**\n- **Heat Protectant:** TRESemmé Thermal Creations Heat Tamer Spray\n- **Frizz Control:** Garnier Fructis Sleek & Shine Serum\n- **Styling Cream:** Moroccan Oil Smoothing Lotion"
+        ]
+      },
+      {
+        "tag": "seasonal_care",
+        "patterns": ["How to take care of hair in winter?", "Summer hair care tips", "Best hair care for rainy season"],
+        "responses": [
+          "Each season affects hair differently. Here's what you need to know:\n\n☀️ **Summer Care:**\n- Wear a hat to protect from sun damage.\n- Rinse hair with cold water to reduce sweat buildup.\n\n❄️ **Winter Care:**\n- Use deep conditioning masks to prevent dryness.\n- Avoid washing hair with very hot water.\n\n🌧️ **Rainy Season:**\n- Keep scalp dry and wash frequently to prevent fungal infections.\n- Use lightweight, anti-frizz serums to control humidity.\n\n🛍 **Recommended Products:**\n- **Summer:** BBlunt Climate Control Anti-Frizz Leave-In Cream\n- **Winter:** L'Oreal Paris Total Repair 5 Hair Mask\n- **Rainy Season:** Livon Anti-Frizz Serum"
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": ["Bye", "Goodbye", "Thank you", "Thanks"],
+        "responses": [
+          "You're welcome! Take care of your hair and see you next time! 😊",
+          "Glad I could help! Stay beautiful and confident! 💇‍♀️"
+        ]
+      }
+    ]
+  }
+   
+  
