@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/21f53a6d-3da4-4ad2-81cf-9cbd7c7d6d95
 # HairBotix
 Hair Care Chatbot - AI-Powered Web Application 💇‍♀️💬
 This is a Flask-based AI chatbot designed to provide personalized hair care recommendations. Users can ask about hair care routines, product suggestions, and solutions for common hair problems. The chatbot responds with detailed and structured answers based on an extensive intents.json file.
@@ -5,7 +7,11 @@ This is a Flask-based AI chatbot designed to provide personalized hair care reco
 ## Demo video 
 
 
-Uploading Hair Care Chatbot - Google Chrome 2025-04-10 19-00-42.mp4…
+
+![demo](https://github.com/user-attachments/assets/67527fff-0a71-4836-bd88-7d5bdac771dd)
+
+
+
 
 
 
