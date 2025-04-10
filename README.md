@@ -41,6 +41,10 @@ venv\Scripts\activate
 # Activate (Mac/Linux)
 source venv/bin/activate
 
+## Requirements
+flask
+ 
+
 
 3️⃣ Install Dependencies
 pip install -r requirements.txt
