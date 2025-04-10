@@ -2,6 +2,13 @@
 Hair Care Chatbot - AI-Powered Web Application 💇‍♀️💬
 This is a Flask-based AI chatbot designed to provide personalized hair care recommendations. Users can ask about hair care routines, product suggestions, and solutions for common hair problems. The chatbot responds with detailed and structured answers based on an extensive intents.json file.
 
+## Demo video 
+
+
+Uploading Hair Care Chatbot - Google Chrome 2025-04-10 19-00-42.mp4…
+
+
+
 🚀 Features
 ✅ Interactive Web UI - A modern chat interface with smooth design and animations
 ✅ Hair Care Guidance - Provides expert advice on hair types, treatments, and products
