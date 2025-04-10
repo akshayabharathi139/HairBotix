@@ -17,13 +17,11 @@ This is a Flask-based AI chatbot designed to provide personalized hair care reco
 📂 Project Structure
 
 hairchatbot/
-│── app.py               # Flask backend
+│── app.py    # Flask backend
 │── intents.json         # AI chatbot intents & responses
 │── templates/
-│   └── index.html       # Chatbot UI
-│── static/
-│   ├── styles.css       # Frontend styling
-│   ├── script.js        # Handles chat functionality
+│   └── index.html # Chatbot UI
+    |__style.css
 │── venv/                # Virtual environment (optional)
 │── requirements.txt     # Dependencies
 │── README.md            # Project documentation
