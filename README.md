@@ -30,7 +30,7 @@ hairchatbot/
 
  
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/hair-care-chatbot.git
+git clone "https://github.com/akshayabharathi139/HairBotix.git"
 cd hair-care-chatbot
 
 
